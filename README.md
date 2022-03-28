@@ -59,3 +59,4 @@ Examples:
 
 [With thumbnails.] (http://maps.gisforthought.com/local_file_example/index_thumb.html)
 # leaflet-geotag
+# leaflet-geotag
