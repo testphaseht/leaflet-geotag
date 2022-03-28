@@ -1,5 +1,5 @@
 <?php
-error_reporting(E_ERROR | E_PARSE);
+// error_reporting(E_ERROR | E_PARSE);
     //The directory (relative to this file) that holds the images
     $dir = "Photos";
 	
