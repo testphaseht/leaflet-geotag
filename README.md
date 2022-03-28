@@ -58,3 +58,4 @@ Examples:
 [Without thumbnail images.] (http://maps.gisforthought.com/local_file_example/index.html)
 
 [With thumbnails.] (http://maps.gisforthought.com/local_file_example/index_thumb.html)
+# leaflet-geotag
